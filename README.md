@@ -12,9 +12,6 @@ cd sum_numbers_backend_fastapi
 ```
 
 ## Setup
-```sh
-cd backend
-```
 Create a virtual environment to install dependencies in and activate it:
 
 ```sh
