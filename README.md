@@ -4,11 +4,11 @@
 The first thing to do is to clone the repository:
 
 ```sh
-git clone https://github.com/Tharwat99/sum_numbers.git
+git clone https://github.com/Tharwat99/sum_numbers_backend_fastapi.git
 ```
 
 ```sh
-cd sum_numbers
+cd sum_numbers_backend_fastapi
 ```
 
 ## Setup
